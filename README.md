@@ -30,8 +30,9 @@ The server and client communicate using the `net/rpc` package in Go.
 3. Run the RPC Client
     ```bash
     go run client.go
-
+Expect response ¡Hola Mundo desde RPC!
 ## Screenshot
 
+![image](https://github.com/user-attachments/assets/d1fc954b-a721-48bc-86bf-67980953c769)
 
 
